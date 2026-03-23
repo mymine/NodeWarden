@@ -51,7 +51,7 @@
     "@zip.js/zip.js": "^2.8.23",
     "fflate": "^0.8.2",
     "lucide-preact": "^0.575.0",
-    "preact": "^10.28.4",
+    "preact": "^10.29.0",
     "qrcode-generator": "^2.0.4",
     "wouter": "^3.9.0"
   }
